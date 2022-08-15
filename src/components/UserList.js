@@ -42,7 +42,7 @@ const UserList = () => {
           ))}
         </>
       ) : (
-          <h4 className="text-center">No Users</h4>
+          <h4 className="text-center text-white">No Users</h4>
         )}
     </ListGroup>
   )
