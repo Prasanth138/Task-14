@@ -62,7 +62,7 @@ const EditUser = ({file, setFile}) => {
             <form >
               <div className="formInput text-white">
                 <label htmlFor="file">
-                  Click to Choose Image: 
+                  Click Here to Choose Image: 
                 </label>
                 <input
                   type="file"
